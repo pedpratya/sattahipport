@@ -1,3 +1,3 @@
 <?php 
-	echo 'Hello World develop Drink';
+	echo 'Hello World develop Komson';
 ?>
