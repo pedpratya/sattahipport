@@ -1,3 +1,3 @@
 <?php 
-	echo 'Hello World develop Pratya';
+	echo 'Hello World develop U';
 ?>
